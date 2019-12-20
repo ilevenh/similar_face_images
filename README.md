@@ -21,8 +21,8 @@ In the NEW folder, the paths of similar facial datasets collected so far are sto
 The first column in each txt file is the Euclidean distance between the two, and the second and third columns represent two pictures. <br>
 Smaller Euclidean distance means higher similarity.<br>
 
-The whole dataset (simialr face datasets) is     <br>
-
+The whole dataset (simialr face datasets) is exceeds 1GB size <br>
+Limited by github, we have provided 100 sample images here
 Complete dataset please contact ：<br>
 ileven@shu.edu.cn
 
