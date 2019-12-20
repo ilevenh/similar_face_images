@@ -20,3 +20,12 @@ This project provides similar face datasets generated using a multi-stage strate
 In the NEW folder, the paths of similar facial datasets collected so far are stored. <br>
 The first column in each txt file is the Euclidean distance between the two, and the second and third columns represent two pictures. <br>
 Smaller Euclidean distance means higher similarity.<br>
+
+The whole dataset (simialr face datasets) is     <br>
+
+Complete dataset please contact ：<br>
+ileven@shu.edu.cn
+
+
+
+
