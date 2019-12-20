@@ -2,9 +2,10 @@
 a silimar_face_images path from exist public dataset<br>
 
 . Table shows the current popular public and non-public face recognition datasets.<br>
-|Dataset|Identities|Images|Public|<br>  
-|PubFig|200|58,000|yes|<br>
-|LFW|5,749|13,233|yes|<br>
+
+|Dataset   |Identities|Images|Public|<br>  
+|PubFig    |200        |58,000|yes|<br>
+|LFW       |5,749      |13,233|yes|<br>
 |WDRef|2,995|99,773|yes|<br>
 |CelebFaces|10,177|202,599|yes|<br>
 |CASIA-WebFace|10,575|494,414|yes|<br>
