@@ -22,7 +22,7 @@ The first column in each txt file is the Euclidean distance between the two, and
 Smaller Euclidean distance means higher similarity.<br>
 
 The whole dataset (simialr face datasets) is exceeds 1GB size <br>
-Limited by github, we have provided 100 sample images here
+Limited by github, we have provided 100 sample images here,
 Complete dataset please contact ：<br>
 ileven@shu.edu.cn
 
